@@ -1,0 +1,5 @@
+rose,роза
+world,світ
+wear,носити
+rumble,гуркіт
+download,завантажити
